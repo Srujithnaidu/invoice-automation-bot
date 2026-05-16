@@ -6,7 +6,7 @@ and saves to Excel using UiPath and Python.
 
 ## Tools Used
 - UiPath Studio Community Edition
-- Python 3.x
+- Python 3.13.2 (PyCharm IDE)
 - pdfplumber
 - openpyxl
 - Windows Task Scheduler
