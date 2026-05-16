@@ -1,0 +1,6 @@
+.local/ 
+.objects/ 
+.project/ 
+.settings/ 
+.tmh/ 
+*.dll 
